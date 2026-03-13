@@ -1,29 +1,29 @@
 {
-  "name": "AFK Bot",
+  "name": "bot",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_lifesteal_smp.aternos.me",
-    "port": 19122,
+    "ip": "Friends_mcpe.aternos.me:17473",
+    "port": 17473,
     "version": "1.21.11"
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 
     "y": 100,
     "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": true
       "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": true,
     },
     "chat-messages": {
       "enabled": true,
